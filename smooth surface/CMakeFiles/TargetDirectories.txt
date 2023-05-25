@@ -1,0 +1,3 @@
+/fastone/users/u15623069957/Desktop/smooth10 -6/CMakeFiles/rebuild_cache.dir
+/fastone/users/u15623069957/Desktop/smooth10 -6/CMakeFiles/singlefiber.dir
+/fastone/users/u15623069957/Desktop/smooth10 -6/CMakeFiles/edit_cache.dir
